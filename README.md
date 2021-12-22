@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erwan Roussel</h1>
-<h3 align="center">I am a 17yo passionate developper from France 🇫🇷</h3>
+<h3 align="center">I am a young passionate developper from France 🇫🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimensi0n&label=Profile%20views&color=0e75b6&style=flat" alt="dimensi0n" /> </p>
 
